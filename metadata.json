@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Python Augmented Assignment Operators",
+    "slug": "python-augmented-assignment-operators",
+    "description": "How augmented assignment operators +=, -=, *=, /=, **=, %=, //= provide a compact way to modify the value referenced by a variable by a simple arithmetic operation.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "python"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "programming-assignment-operator",
+        "python-arithmetic-operators"
     ],
     "related": [
-        "",
-        ""
     ]
 }
